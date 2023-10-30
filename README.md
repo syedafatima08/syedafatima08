@@ -6,7 +6,7 @@
 
 -> 👯 I’m looking to collaborate on Open source projects.
 
--> 💬 Ask me about Computer Science and Web Development.
+-> 💬 Ask me about Computer Science, Machine Learning, and Web Development.
 
 -> 📫 How to reach me www.linkedin.com/in/syeda-fatima-85330
 
