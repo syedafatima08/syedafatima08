@@ -2,8 +2,6 @@
 
 -> 👀 I’m interested in Data Science.
 
--> 🌱 I’m currently learning OOPs Concepts.
-
 -> 👯 I’m looking to collaborate on Open source projects.
 
 -> 💬 Ask me about Computer Science, Machine Learning, and Web Development.
